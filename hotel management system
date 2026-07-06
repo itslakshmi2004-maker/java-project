@@ -1,0 +1,18 @@
+# Hotel Management System
+
+## Technologies
+- Java
+- OOP
+- ArrayList
+
+## Features
+- Room Booking
+- Customer Details
+- Room Availability
+- Billing
+- Check Out
+
+## How to Run
+
+javac HotelManagement.java
+java HotelManagement
